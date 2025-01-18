@@ -42,6 +42,7 @@ Aqui estão alguns dos meus projetos favoritos:
 
 ## 🚀 Minhas metas
 1.Levar a tecnologia a altos niveis de criatividade.
+
 2. Aprimorar continuamente minhas habilidades.
 
 ---
