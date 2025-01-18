@@ -19,7 +19,7 @@ Aqui estão alguns dos meus projetos favoritos:
 1. **[Meu Portfólio](#)**  
    Um site minimalista criado para destacar minhas habilidades e projetos. Totalmente responsivo e rápido!  
 
-2. **[Seu Cafee](#)**  Em actualização
+2. **[Seu Cafee](#)**  ***Em actualização***
    Uma identidade visual completa e estratégias para redes sociais da minha loja de café.
 
 ---
@@ -42,6 +42,7 @@ Aqui estão alguns dos meus projetos favoritos:
 
 ## 🚀 Minhas metas
 1.Levar a tecnologia a altos niveis de criatividade
+
 2. Aprimorar continuamente minhas habilidades.
 
 ---
