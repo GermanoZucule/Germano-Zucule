@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou [Germano Zucule]!
+# 👋 Olá, eu sou Germano Zucule!
 
 🎨 **Designer Gráfico** | 💻 **Programador Front-End** | 🚀 **Entusiasta de Startups**| **Amador de IA🤖**
 
